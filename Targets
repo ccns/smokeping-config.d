@@ -1,0 +1,722 @@
+#
+*** Targets ***
+
+probe = FPing
+
+menu = Top
+title = Network Latency Grapher
+remark = Welcome to this SmokePing website.
+
++ Local
+menu = Local
+title = Local
+
+++ localhost
+host = localhost
+
++ BBS
+menu = BBS
+title = BBS
+
+++ bbs_ccns_ncku_edu_tw
+host = bbs.ccns.ncku.edu.tw
+
+++ bbs_nsysu_edu_tw
+host = bbs.nsysu.edu.tw
+
+++ ptt_cc
+host = ptt.cc
+
+++ ptt2_cc
+host = ptt2.cc
+
+++ ptt3_cc
+host = ptt3.cc
+
++ CDN
+menu = CDN
+title = CDN
+
+++ adn_20765_psicdn_net
+host = adn.20765.psicdn.net
+title = adn.20765.psicdn.net (EdgeCast)
+
+++ ajax_googleapis_com
+host = ajax.googleapis.com
+title = ajax.googleapis.com (Google)
+
+++ ajax_microsoft_com
+host = ajax.microsoft.com
+title = ajax.microsoft.com (Microsoft)
+
+++ cachefly_cachefly_net
+host = cachefly.cachefly.net
+title = cachefly.cachefly.net (CacheFly)
+
+++ cdn_appledaily_com_tw_edgesuite_net
+host = cdn.appledaily.com.tw.edgesuite.net
+title = cdn.appledaily.com.tw.edgesuite.net (Akamai)
+
+++ cdn_17app_co_akamaized_net
+host = cdn.17app.co.akamaized.net
+title = cdn.17app.co.akamaized.net (Akamai)
+
+++ code_jquery_netdna-cdn_com
+host = code.jquery.netdna-cdn.com
+title = code.jquery.netdna-cdn.com (NetDNA)
+
+++ cs196_wac_edgecastcdn_net
+host = cs196.wac.edgecastcdn.net
+title = cs196.wac.edgecastcdn.net (EdgeCast, Twitter)
+
+++ cs485_wpc_psicdn_net
+host = cs485.wpc.psicdn.net
+title = cs485.wpc.psicdn.net (EdgeCast, KKBOX)
+
+++ d36cz9buwru1tt_cloudfront_net
+host = d36cz9buwru1tt.cloudfront.net
+title = d36cz9buwru1tt.cloudfront.net (CloudFront)
+
+++ downloads_apple_com_edgekey_net
+host = downloads.apple.com.edgekey.net
+title = downloads.apple.com.edgekey.net (Akamai)
+
+++ dsa_17app_co_edgesuite_net
+host = dsa.17app.co.edgesuite.net
+title = dsa.17app.co.edgesuite.net (Akamai)
+
+++ fbcdn-sphotos-a-a_akamaihd_net
+host = fbcdn-sphotos-a-a.akamaihd.net
+title = fbcdn-sphotos-a-a.akamaihd.net (Akamai)
+
+++ github_global_ssl_fastly_net
+host = github.global.ssl.fastly.net
+title = github.global.ssl.fastly.net (Fastly)
+
+++ igcdn-photos-a-a_akamaihd_net
+host = igcdn-photos-a-a.akamaihd.net
+title = igcdn-photos-a-a.akamaihd.net (Akamai)
+
+++ media_limelight_com
+host = media.limelight.com
+title = media.limelight.com (Limelight)
+
+++ netdna_bootstrapcdn_com
+host = netdna.bootstrapcdn.com
+title = netdna.bootstrapcdn.com (NetDNA)
+
+++ prod_imgur_map_fastlylb_net
+host = prod.imgur.map.fastlylb.net
+title = prod.imgur.map.fastlylb.net (Fastly)
+
+++ test_gslin_org
+host = test.gslin.org
+title = test.gslin.org (CloudFront)
+
+++ test-priceclass100_gslin_org
+host = test-priceclass100.gslin.org
+title = test-priceclass100.gslin.org (CloudFront)
+
+++ test-priceclass200_gslin_org
+host = test-priceclass200.gslin.org
+title = test-priceclass200.gslin.org (CloudFront)
+
+++ twaddksdssl_edgekey_net
+host = twaddksdssl.edgekey.net
+title = twaddksdssl.edgekey.net (Akamai)
+
+++ tw_audio_kkbox_com_tw_edgesuite_net
+host = tw.audio.kkbox.com.tw.edgesuite.net
+title = tw.audio.kkbox.com.tw.edgesuite.net (Akamai)
+
+++ tw_is_kkbox_com_tw_edgesuite_net
+host = tw.is.kkbox.com.tw.edgesuite.net
+title = tw.is.kkbox.com.tw.edgesuite.net (Akamai)
+
+++ s-media-cache-ak_pinimg_com_edgekey_net
+host = s-media-cache-ak.pinimg.com.edgekey.net
+title = s-media-cache-ak.pinimg.com.edgekey.net (Akamai)
+
+++ use_edgefonts_net-v3_edgekey_net
+host = use.edgefonts.net-v3.edgekey.net
+title = use.edgefonts.net-v3.edgekey.net (Akamai)
+
+++ wac_20765_psicdn_net
+host = wac.20765.psicdn.net
+title = wac.20765.psicdn.net (EdgeCast)
+
+++ wildcard_kfs_io_edgekey_net
+host = wildcard.kfs.io.edgekey.net
+title = wildcard.kfs.io.edgekey.net (Akamai)
+
+++ wildcard_kkbox_com_edgekey_net
+host = wildcard.kkbox.com.edgekey.net
+title = wildcard.kkbox.com.edgekey.net (Akamai)
+
+++ wildcard_pixfs_net_edgekey_net
+host = wildcard.pixfs.net.edgekey.net
+title = wildcard.pixfs.net.edgekey.net (Akamai)
+
+++ wpc_20765_psicdn_net
+host = wpc.20765.psicdn.net
+title = wpc.20765.psicdn.net (EdgeCast)
+
+++ www_acer_com_edgesuite_net
+host = www.acer.com.edgesuite.net
+title = www.acer.com.edgesuite.net (Akamai)
+
+++ www_akamai_com
+host = www.akamai.com
+title = www.akamai.com (Akamai)
+
+++ www_asus_com_edgekey_net
+host = www.asus.com.edgekey.net
+title = www.asus.com.edgekey.net (Akamai)
+
+++ www_chinatimes_com_edgesuite_net
+host = www.chinatimes.com.edgesuite.net
+title = www.chinatimes.com.edgesuite.net (Akamai)
+
+++ www_cloudflare_com
+host = www.cloudflare.com
+title = www.cloudflare.com (CloudFlare)
+
+++ www_edgecast_com
+host = www.edgecast.com
+title = www.edgecast.com (EdgeCast)
+
+++ www_htc_com_edgekey_net
+host = www.htc.com.edgekey.net
+title = www.htc.com.edgekey.net (Akamai)
+
+++ www_udn_com_edgesuite_net
+host = www.udn.com.edgesuite.net
+title = www.udn.com.edgesuite.net (Akamai)
+
+++ www_us_cdnetworks_com
+host = www.us.cdnetworks.com
+title = www.us.cdnetworks.com (CDNetworks)
+
++ Cloud
+menu = Cloud
+title = Cloud
+
+++ aws_amazon_com
+host = aws.amazon.com
+
+++ cloud_google_com
+host = cloud.google.com
+
+++ dynamodb_ap-northeast-1_amazonaws_com
+host = dynamodb.ap-northeast-1.amazonaws.com
+
+++ dynamodb_ap-northeast-2_amazonaws_com
+host = dynamodb.ap-northeast-2.amazonaws.com
+
+++ dynamodb_ap-northeast-3_amazonaws_com
+host = dynamodb.ap-northeast-3.amazonaws.com
+
+++ dynamodb_ap-southeast-1_amazonaws_com
+host = dynamodb.ap-southeast-1.amazonaws.com
+
+++ dynamodb_ap-southeast-2_amazonaws_com
+host = dynamodb.ap-southeast-2.amazonaws.com
+
+++ dynamodb_ca-central-1_amazonaws_com
+host = dynamodb.ca-central-1.amazonaws.com
+
+++ dynamodb_eu-west-1_amazonaws_com
+host = dynamodb.eu-west-1.amazonaws.com
+
+++ dynamodb_eu-west-2_amazonaws_com
+host = dynamodb.eu-west-2.amazonaws.com
+
+++ dynamodb_eu-west-3_amazonaws_com
+host = dynamodb.eu-west-3.amazonaws.com
+
+++ dynamodb_sa-east-1_amazonaws_com
+host = dynamodb.sa-east-1.amazonaws.com
+
+++ dynamodb_us-east-1_amazonaws_com
+host = dynamodb.us-east-1.amazonaws.com
+
+++ dynamodb_us-east-2_amazonaws_com
+host = dynamodb.us-east-2.amazonaws.com
+
+++ dynamodb_us-west-1_amazonaws_com
+host = dynamodb.us-west-1.amazonaws.com
+
+++ dynamodb_us-west-2_amazonaws_com
+host = dynamodb.us-west-2.amazonaws.com
+
+++ s3-ap-northeast-1_amazonaws_com
+host = s3-ap-northeast-1.amazonaws.com
+
+++ s3-ap-northeast-2_amazonaws_com
+host = s3-ap-northeast-2.amazonaws.com
+
+++ s3-ap-northeast-3_amazonaws_com
+host = s3-ap-northeast-3.amazonaws.com
+
+++ s3-ap-southeast-1_amazonaws_com
+host = s3-ap-southeast-1.amazonaws.com
+
+++ s3-ap-southeast-2_amazonaws_com
+host = s3-ap-southeast-2.amazonaws.com
+
+++ s3-ca-central-1_amazonaws_com
+host = s3-ca-central-1.amazonaws.com
+
+++ s3-eu-west-1_amazonaws_com
+host = s3-eu-west-1.amazonaws.com
+
+++ s3-eu-west-2_amazonaws_com
+host = s3-eu-west-2.amazonaws.com
+
+++ s3-eu-west-3_amazonaws_com
+host = s3-eu-west-3.amazonaws.com
+
+++ s3-sa-east-1_amazonaws_com
+host = s3-sa-east-1.amazonaws.com
+
+++ s3-us-east-1_amazonaws_com
+host = s3-us-east-1.amazonaws.com
+
+++ s3-us-east-2_amazonaws_com
+host = s3-us-east-2.amazonaws.com
+
+++ s3-us-west-1_amazonaws_com
+host = s3-us-west-1.amazonaws.com
+
+++ s3-us-west-2_amazonaws_com
+host = s3-us-west-2.amazonaws.com
+
+++ s3_amazonaws_com
+host = s3.amazonaws.com
+
++ DNS
+menu = DNS
+title = DNS
+
+++ 1_0_0_1
+host = 1.0.0.1
+title = 1.0.0.1 (Cloudflare)
+
+++ 1_1_1_1
+host = 1.1.1.1
+title = 1.1.1.1 (Cloudflare)
+
+++ 101_101_101_101
+host = 101.101.101.101
+title = 101.101.101.101 (TWNIC)
+
+++ 139_175_1_1
+host = 139.175.1.1
+
+++ 168_95_1_1
+host = 168.95.1.1
+
+++ 168_95_192_1
+host = 168.95.192.1
+
+++ 192_203_230_10
+host = 192.203.230.10
+title = 192.203.230.10 (e.root-servers.net)
+
+++ 192_228_79_201
+host = 192.228.79.201
+title = 192.228.79.201 (b.root-servers.net)
+
+++ 192_33_4_12
+host = 192.33.4.12
+title = 192.33.4.12 (c.root-servers.net)
+
+++ 192_36_148_17
+host = 192.36.148.17
+title = 192.36.148.17 (i.root-servers.net)
+
+++ 192_5_5_241
+host = 192.5.5.241
+title = 192.5.5.241 (f.root-servers.net)
+
+++ 192_58_128_30
+host = 192.58.128.30
+title = 192.58.128.30 (j.root-servers.net)
+
+++ 193_0_14_129
+host = 193.0.14.129
+title = 193.0.14.129 (k.root-servers.net)
+
+++ 195_46_39_39
+host = 195.46.39.39
+
+++ 195_46_39_40
+host = 195.46.39.40
+
+++ 198_41_0_4
+host = 198.41.0.4
+title = 198.41.0.4 (a.root-servers.net)
+
+++ 199_7_83_42
+host = 199.7.83.42
+title = 199.7.83.42 (l.root-servers.net)
+
+++ 199_7_91_13
+host = 199.7.91.13
+title = 199.7.91.13 (d.root-servers.net)
+
+++ 202_12_27_33
+host = 202.12.27.33
+title = 202.12.27.33 (m.root-servers.net)
+
+++ 208_67_220_220
+host = 208.67.220.220
+title = 208.67.220.220 (OpenDNS)
+
+++ 208_67_222_222
+host = 208.67.222.222
+title = 208.67.222.222 (OpenDNS)
+
+++ 61_31_1_1
+host = 61.31.1.1
+
+++ 64_6_64_6
+host = 64.6.64.6
+
+++ 64_6_65_6
+host = 64.6.65.6
+
+++ 75_75_75_75
+host = 75.75.75.75
+title = 75.75.75.75 (Comcast)
+
+++ 77_88_8_1
+host = 77.88.8.1
+
+++ 77_88_8_2
+host = 77.88.8.2
+
+++ 77_88_8_3
+host = 77.88.8.3
+
+++ 77_88_8_7
+host = 77.88.8.7
+
+++ 77_88_8_8
+host = 77.88.8.8
+
+++ 77_88_8_88
+host = 77.88.8.88
+
+++ 8_20_247_20
+host = 8.20.247.20
+
+++ 8_26_56_26
+host = 8.26.56.26
+
+++ 8_8_4_4
+host = 8.8.4.4
+title = 8.8.4.4 (Google)
+
+++ 8_8_8_8
+host = 8.8.8.8
+title = 8.8.8.8 (Google)
+
+++ 9_9_9_9
+host = 9.9.9.9
+title = 9.9.9.9 (Quad9)
+
++ Hosting
+menu = Hosting
+title = Hosting
+
+++ DigitalOcean
+menu = DigitalOcean
+title = DigitalOcean
+
++++ speedtest-ams2_digitalocean_com
+host = speedtest-ams2.digitalocean.com
+title = speedtest-ams2.digitalocean.com (DigitalOcean Amsterdam 2)
+
++++ speedtest-ams3_digitalocean_com
+host = speedtest-ams3.digitalocean.com
+title = speedtest-ams3.digitalocean.com (DigitalOcean Amsterdam 3)
+
++++ speedtest-lon1_digitalocean_com
+host = speedtest-lon1.digitalocean.com
+title = speedtest-lon1.digitalocean.com (DigitalOcean London 1)
+
++++ speedtest-nyc1_digitalocean_com
+host = speedtest-nyc1.digitalocean.com
+title = speedtest-nyc1.digitalocean.com (DigitalOcean New York 1)
+
++++ speedtest-nyc2_digitalocean_com
+host = speedtest-nyc2.digitalocean.com
+title = speedtest-nyc2.digitalocean.com (DigitalOcean New York 2)
+
++++ speedtest-nyc3_digitalocean_com
+host = speedtest-nyc3.digitalocean.com
+title = speedtest-nyc3.digitalocean.com (DigitalOcean New York 3)
+
++++ speedtest-sfo1_digitalocean_com
+host = speedtest-sfo1.digitalocean.com
+title = speedtest-sfo1.digitalocean.com (DigitalOcean San Francisco 1)
+
++++ sppedtest-sfo2_digitalocean_com
+host = speedtest-sfo2.digitalocean.com
+title = speedtest-sfo2.digitalocean.com (DigitalOcean San Francisco 2)
+
++++ speedtest-fra1_digitalocean_com
+host = speedtest-fra1.digitalocean.com
+title = speedtest-fra1.digitalocean.com (DigitalOcean France 1)
+
++++ speedtest-tor1_digitalocean_com
+host = speedtest-tor1.digitalocean.com
+title = speedtest-tor1.digitalocean.com (DigitalOcean Toronto 1)
+
++++ speedtest-blr1_digitalocean_com
+host = speedtest-blr1.digitalocean.com
+title = speedtest-blr1.digitalocean.com (DigitalOcean Bangalore 1)
+
++++ speedtest-sgp1_digitalocean_com
+host = speedtest-sgp1.digitalocean.com
+title = speedtest-sgp1.digitalocean.com (DigitalOcean Singapore 1)
+
+++ Linode
+menu = Linode
+title = Linode
+
++++ speedtest_atlanta_linode_com
+host = speedtest.atlanta.linode.com
+title = speedtest.atlanta.linode.com (Linode Atlanta)
+
++++ speedtest_dallas_linode_com
+host = speedtest.dallas.linode.com
+title = speedtest.dallas.linode.com (Linode Dallas)
+
++++ speedtest_fremont_linode_com
+host = speedtest.fremont.linode.com
+title = speedtest.fremont.linode.com (Linode Fremont)
+
++++ speedtest_london_linode_com
+host = speedtest.london.linode.com
+title = speedtest.london.linode.com (Linode London)
+
++++ speedtest_newark_linode_com
+host = speedtest.newark.linode.com
+title = speedtest.newark.linode.com (Linode Newark)
+
++++ speedtest_singapore_linode_com
+host = speedtest.singapore.linode.com
+title = speedtest.singapore.linode.com (Linode Singapore)
+
++++ speedtest_tokyo_linode_com
+host = speedtest.tokyo.linode.com
+title = speedtest.tokyo.linode.com (Linode Tokyo)
+
++++ speedtest_tokyo2_linode_com
+host = speedtest.tokyo2.linode.com
+title = speedtest.tokyo2.linode.com (Linode Tokyo 2)
+
+++ Vultr
+menu = Vultr
+title = Vultr
+
++++ ams-nl-ping_vultr_com
+host = ams-nl-ping.vultr.com
+title = ams-nl-ping.vultr.com
+
++++ fl-us-ping_vultr_com
+host = fl-us-ping.vultr.com
+title = fl-us-ping.vultr.com
+
++++ fra-de-ping_vultr_com
+host = fra-de-ping.vultr.com
+title = fra-de-ping.vultr.com
+
++++ hnd-jp-ping_vultr_com
+host = hnd-jp-ping.vultr.com
+title = hnd-jp-ping.vultr.com
+
++++ ga-us-ping_vultr_com
+host = ga-us-ping.vultr.com
+title = ga-us-ping.vultr.com
+
++++ il-us-ping_vultr_com
+host = il-us-ping.vultr.com
+title = il-us-ping.vultr.com
+
++++ lax-ca-us-ping_vultr_com
+host = lax-ca-us-ping.vultr.com
+title = lax-ca-us-ping.vultr.com
+
++++ lon-gb-ping_vultr_com
+host = lon-gb-ping.vultr.com
+title = lon-gb-ping.vultr.com
+
++++ nj-us-ping_vultr_com
+host = nj-us-ping.vultr.com
+title = nj-us-ping.vultr.com
+
++++ par-fr-ping_vultr_com
+host = par-fr-ping.vultr.com
+title = par-fr-ping.vultr.com
+
++++ sjo-ca-us-ping_vultr_com
+host = sjo-ca-us-ping.vultr.com
+title = sjo-ca-us-ping.vultr.com
+
++++ sgp-ping_vultr_com
+host = sgp-ping.vultr.com
+title = sgp-ping.vultr.com
+
++++ syd-au-ping_vultr_com
+host = syd-au-ping.vultr.com
+title = syd-au-ping.vultr.com
+
++++ tx-us-ping_vultr_com
+host = tx-us-ping.vultr.com
+title = tx-us-ping.vultr.com
+
++++ wa-us-ping_vultr_com
+host = wa-us-ping.vultr.com
+title = wa-us-ping.vultr.com
+
++ ISP
+menu = ISP
+title = ISP
+
+++ 219_91_1_254
+host = 219.91.1.254
+title = 219.91.1.254 (APOL, Taipeinet)
+
+++ dns_apol_com_tw
+host = dns.apol.com.tw
+
+++ www_fetnet_net
+host = www.fetnet.net
+
+++ www_he_net
+host = www.he.net
+
+++ www_hinet_net
+host = www.hinet.net
+
+++ www_kbtelecom_net
+host = www.kbtelecom.net
+
+++ www_seed_net_tw
+host = www.seed.net.tw
+
+++ www_so-net_net_tw
+host = www.so-net.net.tw
+
+++ www_taiwanmobile_com
+host = www.taiwanmobile.com
+
+++ www_tfn_net_tw
+host = www.tfn.net.tw
+
++ School
+menu = School
+title = School
+
+++ www_berkeley_edu
+host = www.berkeley.edu
+
+++ www_ccu_edu_tw
+host = www.ccu.edu.tw
+
+++ www_fg_tp_edu_tw
+host = www.fg.tp.edu.tw
+
+++ www_hcrc_edu_tw
+host = www.hcrc.edu.tw
+
+++ www_nccu_edu_tw
+host = www.nccu.edu.tw
+
+++ www_ncku_edu_tw
+host = www.ncku.edu.tw
+
+++ www_ncu_edu_tw
+host = www.ncu.edu.tw
+
+++ www_nsysu_edu_tw
+host = www.nsysu.edu.tw
+
+++ www_mit_edu
+host = www.mit.edu
+
+++ www_stanford_edu
+host = www.stanford.edu
+
++ Service
+menu = Service
+title = Service
+
+++ bazqux_com
+host = bazqux.com
+
+++ blog_gslin_org
+host = blog.gslin.org
+
+++ blog_ijliao_info
+host = blog.ijliao.info
+
+++ github_com
+host = github.com
+
+++ pbs_twimg_com
+host = pbs.twimg.com
+
+++ old_gslin_org
+host = old.gslin.org
+
+++ tw_archive_ubuntu_com
+host = tw.archive.ubuntu.com
+
+++ twitter_com
+host = twitter.com
+
+++ unpkg_com
+host = unpkg.com
+
+++ www_facebook_com
+host = www.facebook.com
+
+++ www_fetnet_net
+host = www.fetnet.net
+
+++ www_gamer_com_tw
+host = www.gamer.com.tw
+
+++ www_hinet_net
+host = www.hinet.net
+
+++ www_kkbox_com
+host = www.kkbox.com
+
+++ www_mobile01_com
+host = www.mobile01.com
+
+++ www_pchome_com_tw
+host = www.pchome.com.tw
+
+++ www_plurk_com
+host = www.plurk.com
+
+++ www_pixnet_net
+host = www.pixnet.net
+
+++ www_ptt_cc
+host = www.ptt.cc
+
+++ www_roodo_com
+host = www.roodo.com
+
+++ www_ubuntu_com
+host = www.ubuntu.com
+
+++ www_xuite_net
+host = www.xuite.net

@@ -294,6 +294,342 @@ host = s3-us-west-2.amazonaws.com
 ++ s3_amazonaws_com
 host = s3.amazonaws.com
 
++ OSS
+menu = OSS
+title = OSS
+
+++ Debian
+menu = Debian
+title Debian
+
++++ ftp_jp_debian_org
+host = ftp.jp.debian.org
+title = ftp.jp.debian.org (Debian Japan Mirror)
+
++++ ftp_hk_debian_org
+host = ftp.hk.debian.org
+title = ftp.hk.debian.org (Debian Hong Kong Mirror)
+
++++ ftp_hr_debian_org
+host = ftp.hr.debian.org
+title = ftp.hr.debian.org (Debian Croatia Mirror)
+
++++ ftp_uk_debian_org
+host = ftp.uk.debian.org
+title = ftp.uk.debian.org (Debian United Kingdom Mirror)
+
++++ ftp_cl_debian_org
+host = ftp.cl.debian.org
+title = ftp.cl.debian.org (Debian Chile Mirror)
+
++++ ftp_ru_debian_org
+host = ftp.ru.debian.org
+title = ftp.ru.debian.org (Debian Russia Mirror)
+
++++ ftp_ie_debian_org
+host = ftp.ie.debian.org
+title = ftp.ie.debian.org (Debian Ireland Mirror)
+
++++ ftp_md_debian_org
+host = ftp.md.debian.org
+title = ftp.md.debian.org (Debian Moldova Mirror)
+
++++ ftp_sv_debian_org
+host = ftp.sv.debian.org
+title = ftp.sv.debian.org (Debian El Salvador Mirror)
+
++++ ftp_bg_debian_org
+host = ftp.bg.debian.org
+title = ftp.bg.debian.org (Debian Bulgaria Mirror)
+
++++ ftp_am_debian_org
+host = ftp.am.debian.org
+title = ftp.am.debian.org (Debian Armenia Mirror)
+
++++ ftp_sg_debian_org
+host = ftp.sg.debian.org
+title = ftp.sg.debian.org (Debian Singapore Mirror)
+
++++ ftp_ca_debian_org
+host = ftp.ca.debian.org
+title = ftp.ca.debian.org (Debian Canada Mirror)
+
++++ ftp_cz_debian_org
+host = ftp.cz.debian.org
+title = ftp.cz.debian.org (Debian Czech Mirror)
+
++++ ftp_ua_debian_org
+host = ftp.ua.debian.org
+title = ftp.ua.debian.org (Debian Ukarine Mirror)
+
++++ ftp_is_debian_org
+host = ftp.is.debian.org
+title = ftp.is.debian.org (Debian Iceland Mirror)
+
++++ ftp_tw_debian_org
+host = ftp.tw.debian.org
+title = ftp.tw.debian.org (Debian Taiwan Mirror)
+
++++ ftp_lt_debian_org
+host = ftp.lt.debian.org
+title = ftp.lt.debian.org (Debian Lithuania Mirror)
+
++++ ftp_hu_debian_org
+host = ftp.hu.debian.org
+title = ftp.hu.debian.org (Debian Hungary Mirror)
+
++++ ftp_fi_debian_org
+host = ftp.fi.debian.org
+title = ftp.fi.debian.org (Debian Sweden Mirror)
+
++++ ftp_se_debian_org
+host = ftp.se.debian.org
+title = ftp.se.debian.org (Debian Sweden Mirror)
+
++++ ftp_us_debian_org
+host = ftp.us.debian.org
+title = ftp.us.debian.org (Debian United States Mirror)
+
++++ ftp_nl_debian_org
+host = ftp.nl.debian.org
+title = ftp.nl.debian.org (Debian Netherlands Mirror)
+
++++ ftp_ch_debian_org
+host = ftp.ch.debian.org
+title = ftp.ch.debian.org (Debian Swiss Mirror)
+
++++ ftp_ro_debian_org
+host = ftp.ro.debian.org
+title = ftp.ro.debian.org (Debian Romania Mirror)
+
++++ ftp_dk_debian_org
+host = ftp.dk.debian.org
+title = ftp.dk.debian.org (Debian Denmark Mirror)
+
++++ ftp_cn_debian_org
+host = ftp.cn.debian.org
+title = ftp.cn.debian.org (Debian China Mirror)
+
++++ ftp2_cn_debian_org
+host = ftp2.cn.debian.org
+title = ftp2.cn.debian.org (Debian China Mirror)
+
++++ ftp_pt_debian_org
+host = ftp_pt_debian_org
+title = ftp.pt.debian.org (Debian Portugal Mirror)
+
++++ ftp_nc_debian_org
+host = ftp.nc.debian.org
+title = ftp.nc.debian.org (Debian New Caledonia Mirror)
+
++++ ftp_kr_debian_org
+host = ftp.kr.debian.org
+title = ftp.kr.debian.org (Debian Korea Mirror)
+
++++ ftp_tk_debian_org
+host = ftp.tk.debian.org
+title = ftp.tk.debian.org (Debian Turkey Mirror)
+
++++ ftp_it_debian_org
+host = ftp.it.debian.org
+title = ftp.it.debian.org (Debian Italy Mirror)
+
++++ ftp_at_debian_org
+host = ftp.at.debian.org
+title = ftp.at.debian.org (Debian Austria Mirror)
+
++++ ftp_mx_debian_org
+host = ftp.mx.debian.org
+title = ftp.mx.debian.org (Debian Mexico Mirror)
+
++++ ftp_no_debian_org
+host = ftp.no.debian.org
+title = ftp.no.debian.org (Debian Norway Mirror)
+
++++ ftp_ee_debian_org
+host = ftp.ee.debian.org
+title = ftp.ee.debian.org (Debian Estonia Mirror)
+
++++ ftp_by_debian_org
+host = ftp.by.debian.org
+title = ftp.by.debian.org (Debian White Russia Mirror)
+
++++ ftp_be_debian_org
+host = ftp.be.debian.org
+title = ftp.be.debian.org (Debian Belgium Mirror)
+
++++ ftp_au_debian_org
+host = ftp.au.debian.org
+title = ftp.au.debian.org (Debian Australia Mirror)
+
++++ ftp_it_debian_org
+host = ftp.it.debian.org
+title = ftp.it.debian.org (Debian Italy Mirror)
+
++++ ftp_at_debian_org
+host = ftp.at.debian.org
+title = ftp.at.debian.org (Debian Austria Mirror)
+
++++ ftp_mx_debian_org
+host = ftp.mx.debian.org
+title = ftp.mx.debian.org (Debian Mexico Mirror)
+
++++ ftp_no_debian_org
+host = ftp.no.debian.org
+title = ftp.no.debian.org (Debian Norway Mirror)
+
++++ ftp_ee_debian_org
+host = ftp.ee.debian.org
+title = ftp.ee.debian.org (Debian Estonia Mirror)
+
++++ ftp_by_debian_org
+host = ftp.by.debian.org
+title = ftp.by.debian.org (Debian White Russia Mirror)
+
++++ ftp_be_debian_org
+host = ftp.be.debian.org
+title = ftp.be.debian.org (Debian Belgium Mirror)
+
++++ ftp_au_debian_org
+host = ftp.au.debian.org
+title = ftp.au.debian.org (Debian Australia Mirror)
+
++++ ftp_it_debian_org
+host = ftp.it.debian.org
+title = ftp.it.debian.org (Debian Italy Mirror)
+
++++ ftp_at_debian_org
+host = ftp.at.debian.org
+title = ftp.at.debian.org (Debian Austria Mirror)
+
++++ ftp_mx_debian_org
+host = ftp.mx.debian.org
+title = ftp.mx.debian.org (Debian Mexico Mirror)
+
++++ ftp_no_debian_org
+host = ftp.no.debian.org
+title = ftp.no.debian.org (Debian Norway Mirror)
+
++++ ftp_ee_debian_org
+host = ftp.ee.debian.org
+title = ftp.ee.debian.org (Debian Estonia Mirror)
+
++++ ftp_by_debian_org
+host = ftp.by.debian.org
+title = ftp.by.debian.org (Debian White Russia Mirror)
+
++++ ftp_be_debian_org
+host = ftp.be.debian.org
+title = ftp.be.debian.org (Debian Belgium Mirror)
+
++++ ftp_au_debian_org
+host = ftp.au.debian.org
+title = ftp.au.debian.org (Debian Australia Mirror)
+
++++ ftp_it_debian_org
+host = ftp.it.debian.org
+title = ftp.it.debian.org (Debian Italy Mirror)
+
++++ ftp_at_debian_org
+host = ftp.at.debian.org
+title = ftp.at.debian.org (Debian Austria Mirror)
+
++++ ftp_mx_debian_org
+host = ftp.mx.debian.org
+title = ftp.mx.debian.org (Debian Mexico Mirror)
+
++++ ftp_no_debian_org
+host = ftp.no.debian.org
+title = ftp.no.debian.org (Debian Norway Mirror)
+
++++ ftp_ee_debian_org
+host = ftp.ee.debian.org
+title = ftp.ee.debian.org (Debian Estonia Mirror)
+
++++ ftp_by_debian_org
+host = ftp.by.debian.org
+title = ftp.by.debian.org (Debian White Russia Mirror)
+
++++ ftp_be_debian_org
+host = ftp.be.debian.org
+title = ftp.be.debian.org (Debian Belgium Mirror)
+
++++ ftp_au_debian_org
+host = ftp.au.debian.org
+title = ftp.au.debian.org (Debian Australia Mirror)
+
++++ ftp_it_debian_org
+host = ftp.it.debian.org
+title = ftp.it.debian.org (Debian Italy Mirror)
+
++++ ftp_at_debian_org
+host = ftp.at.debian.org
+title = ftp.at.debian.org (Debian Austria Mirror)
+
++++ ftp_mx_debian_org
+host = ftp.mx.debian.org
+title = ftp.mx.debian.org (Debian Mexico Mirror)
+
++++ ftp_no_debian_org
+host = ftp.no.debian.org
+title = ftp.no.debian.org (Debian Norway Mirror)
+
++++ ftp_ee_debian_org
+host = ftp.ee.debian.org
+title = ftp.ee.debian.org (Debian Estonia Mirror)
+
++++ ftp_by_debian_org
+host = ftp.by.debian.org
+title = ftp.by.debian.org (Debian White Russia Mirror)
+
++++ ftp_be_debian_org
+host = ftp.be.debian.org
+title = ftp.be.debian.org (Debian Belgium Mirror)
+
++++ ftp_au_debian_org
+host = ftp.au.debian.org
+title = ftp.au.debian.org (Debian Australia Mirror)
+
++++ ftp_gr_debian_org
+host = ftp.gr.debian.org
+title = ftp.gr.debian.org (Debian Greece Mirror)
+
++++ ftp_sk_debian_org
+host = ftp.sk.debian.org
+title = ftp.sk.debian.org (Debian Slovakia Mirror)
+
++++ ftp_fr_debian_org
+host = ftp.fr.debian.org
+title = ftp.fr.debian.org (Debian France Mirror)
+
++++ ftp_pl_debian_org
+host = ftp.pl.debian.org
+title = ftp.pl.debian.org (Debian Poland Mirror)
+
++++ ftp_si_debian_org
+host = ftp.si.debian.org
+title = ftp.si.debian.org (Debian Slovenia Mirror)
+
++++ ftp_br_debian_org
+host = ftp.br.debian.org
+title = ftp.br.debian.org (Debian Brazil Mirror)
+
++++ ftp_es_debian_org
+host = ftp.es.debian.org
+title = ftp.es.debian.org (Debian Spain Mirror)
+
++++ ftp_de_debian_org
+host = ftp.de.debian.org
+title = ftp.de.debian.org (Debian Germany Mirror)
+
++++ ftp2_de_debian_org
+host = ftp2.de.debian.org
+title = ftp.de.debian.org (Debian Gremany Mirror 2)
+
++++ ftp_nz_debian_org
+host = ftp.nz.debian.org
+title = ftp.nz.debian.org (Debian New Zealand Mirror)
+
 + DNS
 menu = DNS
 title = DNS

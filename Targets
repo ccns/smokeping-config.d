@@ -300,7 +300,7 @@ title = OSS
 
 ++ Debian
 menu = Debian
-title Debian
+title = Debian
 
 +++ ftp_jp_debian_org
 host = ftp.jp.debian.org
@@ -629,6 +629,26 @@ title = ftp.de.debian.org (Debian Gremany Mirror 2)
 +++ ftp_nz_debian_org
 host = ftp.nz.debian.org
 title = ftp.nz.debian.org (Debian New Zealand Mirror)
+
+++ Ubuntu
+menu = Ubuntu
+title = Ubuntu
+
++++ free_nchc_org_tw
+host = free.nchc.org.tw
+title = free.nchc.org.tw (Ubuntu NCHC, Taiwan Mirror)
+
++++ debian_linux_org_tw
+host = debian.linux.org.tw
+title = debian.linux.org.tw (Ubuntu National Taiwan University Mirror)
+
++++ ftp_ubuntu_tw_net
+host = ftp.ubuntu-tw.net
+title = ftp.ubuntu-tw.net (Ubuntu Ubuntu-TW Mirror)
+
++++ ftp_tku_edu_tw
+host = ftp.tku.edu.tw
+title = ftp.tku.edu.tw (Ubuntu TKU-TamKangUniversity Mirror)
 
 + DNS
 menu = DNS

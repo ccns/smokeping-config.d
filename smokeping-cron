@@ -10,5 +10,5 @@ fi
 
 curl -s "${TARGET_HASH_URL}" > /etc/smokeping/config.d/Targets
 
-/usr/sbin/service smokeping restart
-/usr/sbin/service smokeping-fcgi restart
+systemctl restart smokeping
+systemctl restart smokeping-fcgi

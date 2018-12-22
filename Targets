@@ -522,6 +522,90 @@ title = ftp.ubuntu-tw.net (Ubuntu Ubuntu-TW Mirror)
 host = ftp.tku.edu.tw
 title = ftp.tku.edu.tw (Ubuntu TKU-TamKangUniversity Mirror)
 
++++ ftp_yzu_edu_tw
+host = ftp.yzu.edu.tw
+title = ftp.yzu.edu.tw (Ubuntu Yuan Ze University, Dept of CSE Mirror)
+
++++ mirror_ncunwlab_tk
+host = mirror.ncunwlab.tk
+title = mirror.ncunwlab.tk (Ubuntu National Central University, Mobile Broadband Network Lab Mirror)
+
++++ ftp_ntou_edu_tw
+host = ftp.ntou.edu.tw
+title = ftp.ntou.edu.tw (Ubuntu Institute of Network Development, National Taiwan Ocean University Mirror)
+
++++ ubuntu_cs_nctu_edu_tw
+host = ubuntu.cs.nctu.edu.tw
+title = ubuntu.cs.nctu.edu.tw (Ubuntu NCTUCSCC Mirror)
+
++++ ubuntu_stu_edu_tw
+host = ubuntu.stu.edu.tw
+title = ubuntu.stu.edu.tw (Ubuntu Shu-Te University Mirror)
+
++++ mirror01_idc_hinet_net
+host = mirror01.idc.hinet.net
+title = mirror01.idc.hinet.net (Ubuntu Chunghwa Telecom Mirror)
+
++++ linux_yz_yamagata-u_ac_jp
+host = linux.yz.yamagata-u.ac.jp
+title = linux.yz.yamagata-u.ac.jp (Ubuntu Yamagata University Mirror)
+
++++ ftp_jaist_ac_jp
+host = ftp.jaist.ac.jp
+title = ftp.jaist.ac.jp (Ubuntu JAIST Mirror)
+
++++ ftp_riken_jp
+host = ftp.riken.jp
+title = ftp.riken.jp (Ubuntu RIKEN Mirror)
+
++++ ftp_tsukuba_wide_ad_jp
+host = ftp.tsukuba.wide.ad.jp
+title = ftp.tsukuba.wide.ad.jp (Ubuntu Tsukuba WIDE Mirror)
+
++++ mirror_fairway_ne_jp
+host = mirror.fairway.ne.jp
+title = mirror.fairway.ne.jp (Ubuntu FAIRWAY Corporation Mirror)
+
++++ ubuntutym_u_toyama_ac_jp
+host = ubuntutym.u-toyama.ac.jp
+title = ubuntutym.u-toyama.ac.jp (Ubuntu UNIVERSITY OF TOYAMA with Ubuntu Japanese LoCo Mirror)
+
++++ ubuntu_ashisuto_ubuntulinux_jp
+host = ubuntu-ashisuto.ubuntulinux.jp
+title = ubuntu-ashisuto.ubuntulinux.jp (Ubuntu K.K. Ashisuto with Ubuntu Japanese LoCo Mirror)
+
++++ mirror_kakao_com
+host = mirror.kakao.com
+title = mirror.kakao.com (Ubuntu Kakao Corporation Mirror)
+
++++ ftp_harukasan_org
+host = ftp.harukasan.org
+title = ftp.harukasan.org (Ubuntu Harukasan Mirror)
+
++++ kr_archive_ubuntu_com
+host = kr.archive.ubuntu.com
+title = kr.archive.ubuntu.com (Ubuntu KAIST Mirror)
+
++++ ftp_neowiz_com
+host = ftp.neowiz.com
+title = ftp.neowiz.com (Ubuntu NeowizGames Mirror)
+
++++ ftp_lanet_kr
+host = ftp.lanet.kr
+title = ftp.lanet.kr (Ubuntu LANET Mirror)
+
++++ mirror_xtom_com_hk
+host = mirror.xtom.com.hk
+title = mirror.xtom.com.hk (Ubuntu xTom Hong Kong Limited Mirror)
+
++++ ftp_cuhk_edu_hk
+host = ftp.cuhk.edu.hk
+title = ftp.cuhk.edu.hk (Ubuntu The Chinese University of Hong Kong Mirror)
+
++++ mirror_hk_koddos_net
+host = mirror-hk.koddos.net
+title = mirror-hk.koddos.net (Ubuntu KoDDoS Mirror)
+
 + DNS
 menu = DNS
 title = DNS

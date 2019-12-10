@@ -20,18 +20,188 @@ title = BBS
 
 ++ bbs_ccns_ncku_edu_tw
 host = bbs.ccns.ncku.edu.tw
+title = bbs.ccns.ncku.edu.tw (NCKU CCNS DreamBBS)
 
-++ bbs_nsysu_edu_tw
-host = bbs.nsysu.edu.tw
+++ bbs_ee_ncku_edu_tw
+host = bbs.ee.ncku.edu.tw
+title = bbs.ee.ncku.edu.tw (NCKU EE WindVally BBS)
+
+++ bbs_med_ncku_edu_tw
+host = bbs.med.ncku.edu.tw
+title = bbs.med.ncku.edu.tw (NCKU Med. BBS)
 
 ++ ptt_cc
 host = ptt.cc
+title = ptt.cc (Ptt BBS)
 
 ++ ptt2_cc
 host = ptt2.cc
+title = ptt2.cc (Ptt2 BBS)
 
 ++ ptt3_cc
 host = ptt3.cc
+title = ptt3.cc (Ptt3 BBS)
+
+++ ofo_tw
+host = ofo.tw
+title = ofo.tw (NTU OfO BBS)
+
+++ bbs_badcow_com_tw
+host = bbs.badcow.com.tw
+title = bbs.badcow.com.tw (NTU EE Badcow BBS)
+
+++ bbs_ntpu_edu_tw
+host = bbs.ntpu.edu.tw
+title = bbs.ntpu.edu.tw (NTPU BBS)
+
+++ bbs_ndhu_edu_tw
+host = bbs.ndhu.edu.tw
+title = bbs.ndhu.edu.tw (NDHU BBS)
+
+++ bbs_utaipei_edu_tw
+host = bbs.utaipei.edu.tw
+title = bbs.utaipei.edu.tw (UTaipei BBS)
+
+++ bs2_io
+host = bs2.io
+title = bs2.io (NCTU BS2 BBS rebuild version)
+
+++ bbs_pharos_rocks
+host = bbs.pharos.rocks
+title = bbs.pharos.rocks (NCTU Pharos BBS)
+
+++ nctu_me_bbs
+host = bbs.me.nctu.edu.tw
+title = bbs.me.nctu.edu.tw (NCTU ME BBS)
+
+++ nchu_cs_bbs
+host = bbs.cs.nthu.edu.tw
+title = bbs.cs.nthu.edu.tw (NTHU CS Maple BBS)
+
+++ bbs_ncnu_edu_tw
+host = bbs.ncnu.edu.tw
+title = bbs.ncnu.edu.tw (NCNU BBS)
+
+++ binary_csie_ncu_edu_tw
+host = binary.csie.ncu.edu.tw
+title = binary.csie.ncu.edu.tw (NCU CSIE Binary BBS)
+
+++ bbs_math_ncu_edu_tw
+host = bbs.math.ncu.edu.tw
+title = bbs.math.ncu.edu.tw (NCU Math BBS)
+
+++ bbs_nsysu_edu_tw
+host = bbs.nsysu.edu.tw
+title = bbs.nsysu.edu.tw (NSYSU Formosa BBS)
+
+++ bbs3_nsysu_edu_tw
+host = bbs3.nsysu.edu.tw
+title = bbs3.nsysu.edu.tw (NSYSU West BBS)
+
+++ cd_cna_ccu_edu_tw
+host = cd.cna.ccu.edu.tw
+title = cd.cna.ccu.edu.tw (CCU Dream BBS)
+
+++ bbs_cna_ccu_edu_tw
+host = bbs.cna.ccu.edu.tw
+title = bbs.cna.ccu.edu.tw (CCU CNA BBS)
+
+++ bbs_comm_ccu_edu_tw
+host = bbs.comm.ccu.edu.tw
+title = bbs.comm.ccu.edu.tw (CCU Comm. 1394 BBS)
+
+++ bbs_bio_ncue_edu_tw
+host = bbs.bio.ncue.edu.tw
+title = bbs.bio.ncue.edu.tw (NCUE Biology BBS)
+
+++ bbs_jal_tw
+host = bbs.jal.tw
+
+++ cvic_org
+host = cvic.org
+
+++ perlbbs_tw
+host = perlbbs.tw
+title = perlbbs.tw (TCU Perl BBS)
+
+++ bbs_yzu_edu_tw
+host = bbs.yzu.edu.tw
+title = bbs.yzu.edu.tw (YZU WindTop BBS)
+
+++ bbs_ice_cycu_edu_tw
+host = bbs.ice.cycu.edu.tw
+title = bbs.ice.cycu.edu.tw (CYCU ICE BBS)
+
+++ bbs_ck_tp_edu_tw
+host = bbs.ck.tp.edu.tw
+title = bbs.ck.tp.edu.tw (CKHS BBS)
+
+++ fgisc_org
+host = fgisc.org
+title = fgisc.org (TFGHS BBS)
+
+++ bbs_tcfsh_tc_edu_tw
+host = bbs.tcfsh.tc.edu.tw
+title = bbs.tcfsh.tc.edu.tw (TCFSH EOD BBS)
+
+++ bbs_tnfsh_tn_edu_tw
+host = bbs.tnfsh.tn.edu.tw
+title = bbs.tnfsh.tn.edu.tw (TNFSH Wolf BBS)
+
+++ sony_tfcis_org
+host = sony.tfcis.org
+title = sony.tfcis.org (TNFSH TFCIS Sony BBS)
+
+++ cpu_tfcis_org
+host = cpu.tfcis.org
+title = cpu.tfcis.org (TFCIS CPU BBS)
+
+++ wdbbs_tw
+host = wdbbs.tw
+title = wdbbs.tw (WindDust BBS)
+
+++ bbs_gamer_com_tw
+host = bbs.gamer.com.tw
+title = bbs.gamer.com.tw (Bahamut BBS)
+
+++ libido_cx
+host = 74.52.17.106
+title = 74.52.17.106 (Libido BBS)
+
+++ bbs_animeyo_com
+host = bbs.animeyo.com
+
+++ tainan_jal_tw
+host = tainan.jal.tw
+
+++ bbs_windcity_net
+host = bbs.windcity.net
+
+++ 209_141_35_127
+host = 209.141.35.127
+title = 209.141.35.127 (NetWorld BBS)
+
+++ music543_com
+host = music543.com
+title = music543.com (Music543 BBS)
+
+++ segaa_net
+host = segaa.net
+title = segaa.net (SEGAA Personal BBS)
+
+++ bbs_emu486_net
+host = bbs.emu486.net
+
+++ patw_idv_tw
+host = patw.idv.tw
+
+++ bbs_wim888_tw
+host = bbs.wim888.tw
+title = bbs.wim888.tw (888)
+
+++ andcycle_idv_tw
+host = andcycle.idv.tw
+title = andcycle.idv.tw (Kirika)
 
 + CDN
 menu = CDN

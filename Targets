@@ -14,6 +14,50 @@ title = Local
 ++ localhost
 host = localhost
 
++ CCNS_Services
+menu = CCNS_Services
+title = CCNS Services List
+
+++ bbs_ccns_ncku_edu_tw
+host = bbs.ccns.ncku.edu.tw
+title = bbs.ccns.ncku.edu.tw (CCNS DreamBBS)
+
+++ term_ccns_ncku_edu_tw
+host = term.ccns.ncku.edu.tw
+title = term.ccns.ncku.edu.tw (CCNS DreamBBS Websocket Client)
+
+++ ns_ccns_ncku_edu_tw
+host = ns.ccns.ncku.edu.tw
+title = ns.ccns.ncku.edu.tw (CCNS Name Server)
+
+++ desktop_ccns_io
+host = desktop.ccns.io
+title = desktop.ccns.io (CCNS Desktop)
+
+++ ctf_ccns_io
+host = ctf.ccns.io
+title = ctf.ccns.io (CCNS CTF)
+
+++ registry_ccns_io
+host = registry.ccns.io
+title = registry.ccns.io (CCNS Docker Registry)
+
+++ swarm.ccns.io
+host = swarm.ccns.io
+title = swarm.ccns.io (CCNS Docker Swarm)
+
+++ mirror_ccns_ncku_edu_tw
+host = mirror.ccns.ncku.edu.tw
+
+++ mirror2_ccns_ncku_edu_tw
+host = mirror2.ccns.ncku.edu.tw
+
+++ nas_ccns_io
+host = nas.ccns.io
+
+++ pve_ccns_io
+host = pve.ccns.io
+
 + BBS
 menu = BBS
 title = BBS

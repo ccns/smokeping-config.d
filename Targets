@@ -9,7 +9,7 @@ remark = Welcome to this SmokePing website.
 
 + Local
 menu = Local
-TITLE = Local
+title = Local
 
 ++ localhost
 host = localhost

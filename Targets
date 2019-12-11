@@ -9,7 +9,7 @@ remark = Welcome to this SmokePing website.
 
 + Local
 menu = Local
-title = Local
+TITLE = Local
 
 ++ localhost
 host = localhost
@@ -42,7 +42,7 @@ title = ctf.ccns.io (CCNS CTF)
 host = registry.ccns.io
 title = registry.ccns.io (CCNS Docker Registry)
 
-++ swarm.ccns.io
+++ swarm_ccns_io
 host = swarm.ccns.io
 title = swarm.ccns.io (CCNS Docker Swarm)
 

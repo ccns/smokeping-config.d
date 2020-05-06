@@ -5,6 +5,8 @@ Description=Smokeping FastCGI daemon
 After=remote-fs.target
 
 [Service]
+Restart=on-failure
+RestartSec=5s
 ExecStart=/usr/bin/spawn-fcgi -u smokeping -s /run/smokeping-fcgi.sock -M 600 -n -U www-data -- /usr/share/smokeping/smokeping.cgi
 PIDFile=/var/run/smokeping-fcgi.pid
 Type=simple

@@ -48,9 +48,6 @@ title = swarm.ccns.io (CCNS Docker Swarm)
 ++ mirror_ccns_ncku_edu_tw
 host = mirror.ccns.ncku.edu.tw
 
-++ mirror2_ccns_ncku_edu_tw
-host = mirror2.ccns.ncku.edu.tw
-
 ++ nas_ccns_io
 host = nas.ccns.io
 
@@ -68,10 +65,6 @@ title = bbs.ccns.ncku.edu.tw (NCKU CCNS DreamBBS)
 ++ bbs_ee_ncku_edu_tw
 host = bbs.ee.ncku.edu.tw
 title = bbs.ee.ncku.edu.tw (NCKU EE WindVally BBS)
-
-++ bbs_med_ncku_edu_tw
-host = bbs.med.ncku.edu.tw
-title = bbs.med.ncku.edu.tw (NCKU Med. BBS)
 
 ++ ptt_cc
 host = ptt.cc
@@ -621,7 +614,7 @@ host = ftp2.cn.debian.org
 title = ftp2.cn.debian.org (Debian China Mirror)
 
 +++ ftp_pt_debian_org
-host = ftp.pt.debian_org
+host = ftp.pt.debian.org
 title = ftp.pt.debian.org (Debian Portugal Mirror)
 
 +++ ftp_nc_debian_org

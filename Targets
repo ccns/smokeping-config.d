@@ -138,10 +138,6 @@ title = bbs3.nsysu.edu.tw (NSYSU West BBS)
 host = cd.cna.ccu.edu.tw
 title = cd.cna.ccu.edu.tw (CCU Dream BBS)
 
-++ bbs_cna_ccu_edu_tw
-host = bbs.cna.ccu.edu.tw
-title = bbs.cna.ccu.edu.tw (CCU CNA BBS)
-
 ++ bbs_comm_ccu_edu_tw
 host = bbs.comm.ccu.edu.tw
 title = bbs.comm.ccu.edu.tw (CCU Comm. 1394 BBS)
@@ -164,17 +160,9 @@ title = bbs.yzu.edu.tw (YZU WindTop BBS)
 host = bbs.ice.cycu.edu.tw
 title = bbs.ice.cycu.edu.tw (CYCU ICE BBS)
 
-++ bbs_ck_tp_edu_tw
-host = bbs.ck.tp.edu.tw
-title = bbs.ck.tp.edu.tw (CKHS BBS)
-
 ++ fgisc_org
 host = fgisc.org
 title = fgisc.org (TFGHS BBS)
-
-++ bbs_tcfsh_tc_edu_tw
-host = bbs.tcfsh.tc.edu.tw
-title = bbs.tcfsh.tc.edu.tw (TCFSH EOD BBS)
 
 ++ bbs_tnfsh_tn_edu_tw
 host = bbs.tnfsh.tn.edu.tw
@@ -271,10 +259,6 @@ title = code.jquery.netdna-cdn.com (NetDNA)
 host = cs196.wac.edgecastcdn.net
 title = cs196.wac.edgecastcdn.net (EdgeCast, Twitter)
 
-++ cs485_wpc_psicdn_net
-host = cs485.wpc.psicdn.net
-title = cs485.wpc.psicdn.net (EdgeCast, KKBOX)
-
 ++ d36cz9buwru1tt_cloudfront_net
 host = d36cz9buwru1tt.cloudfront.net
 title = d36cz9buwru1tt.cloudfront.net (CloudFront)
@@ -351,17 +335,9 @@ title = wildcard.pixfs.net.edgekey.net (Akamai)
 host = wpc.20765.psicdn.net
 title = wpc.20765.psicdn.net (EdgeCast)
 
-++ www_acer_com_edgesuite_net
-host = www.acer.com.edgesuite.net
-title = www.acer.com.edgesuite.net (Akamai)
-
 ++ www_akamai_com
 host = www.akamai.com
 title = www.akamai.com (Akamai)
-
-++ www_asus_com_edgekey_net
-host = www.asus.com.edgekey.net
-title = www.asus.com.edgekey.net (Akamai)
 
 ++ www_chinatimes_com_edgesuite_net
 host = www.chinatimes.com.edgesuite.net
@@ -716,10 +692,6 @@ title = ftp.ubuntu-tw.net (Ubuntu Ubuntu-TW Mirror)
 +++ ftp_tku_edu_tw
 host = ftp.tku.edu.tw
 title = ftp.tku.edu.tw (Ubuntu TKU-TamKangUniversity Mirror)
-
-+++ ftp_yzu_edu_tw
-host = ftp.yzu.edu.tw
-title = ftp.yzu.edu.tw (Ubuntu Yuan Ze University, Dept of CSE Mirror)
 
 +++ ftp_ntou_edu_tw
 host = ftp.ntou.edu.tw
@@ -1215,39 +1187,3 @@ host = www.ubuntu.com
 
 ++ www_xuite_net
 host = www.xuite.net
-
-+ VPN
-menu = VPN
-title = VPN
-
-++ NordVPN
-menu = NordVPN
-title = NordVPN
-
-+++ jp226_nordvpn_com
-host = jp226.nordvpn.com
-title = jp226.nordvpn.com
-
-+++ jp227_nordvpn_com
-host = jp227.nordvpn.com
-title = jp227.nordvpn.com
-
-+++ jp240_nordvpn_com
-host = jp240.nordvpn.com
-title = jp240.nordvpn.com
-
-+++ jp241_nordvpn_com
-host = jp241.nordvpn.com
-title = jp241.nordvpn.com
-
-+++ jp242_nordvpn_com
-host = jp242.nordvpn.com
-title = jp242.nordvpn.com
-
-+++ jp243_nordvpn_com
-host = jp243.nordvpn.com
-title = jp243.nordvpn.com
-
-+++ tw-hk4_nordvpn_com
-host = tw-hk4.nordvpn.com
-title = tw-hk4.nordvpn.com

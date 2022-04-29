@@ -106,10 +106,6 @@ title = bs2.io (NCTU BS2 BBS rebuild version)
 host = bbs.pharos.rocks
 title = bbs.pharos.rocks (NCTU Pharos BBS)
 
-++ nctu_me_bbs
-host = bbs.me.nctu.edu.tw
-title = bbs.me.nctu.edu.tw (NCTU ME BBS)
-
 ++ nchu_cs_bbs
 host = bbs.cs.nthu.edu.tw
 title = bbs.cs.nthu.edu.tw (NTHU CS Maple BBS)
@@ -133,10 +129,6 @@ title = bbs.nsysu.edu.tw (NSYSU Formosa BBS)
 ++ bbs3_nsysu_edu_tw
 host = bbs3.nsysu.edu.tw
 title = bbs3.nsysu.edu.tw (NSYSU West BBS)
-
-++ cd_cna_ccu_edu_tw
-host = cd.cna.ccu.edu.tw
-title = cd.cna.ccu.edu.tw (CCU Dream BBS)
 
 ++ bbs_comm_ccu_edu_tw
 host = bbs.comm.ccu.edu.tw

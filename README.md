@@ -6,4 +6,4 @@ To use this repo, simply use `make install`
 
 This repo is modified from [gslin/smokeping-config.d](https://github.com/gslin/smokeping-config.d)
 
-[CCNS Smokeping](https://smokeping.ccns.moe)
+[CCNS Smokeping](https://smokeping.ccns.io)

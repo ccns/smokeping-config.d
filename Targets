@@ -243,6 +243,10 @@ title = cdn.appledaily.com.tw.edgesuite.net (Akamai)
 host = cdn.17app.co.akamaized.net
 title = cdn.17app.co.akamaized.net (Akamai)
 
+++ bahamut_akamaized_net
+host = bahamut.akamaized.net
+title = bahamut.akamaized.net (Akamai)
+
 ++ code_jquery_netdna-cdn_com
 host = code.jquery.netdna-cdn.com
 title = code.jquery.netdna-cdn.com (NetDNA)

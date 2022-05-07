@@ -231,6 +231,10 @@ title = ajax.googleapis.com (Google)
 host = ajax.microsoft.com
 title = ajax.microsoft.com (Microsoft)
 
+++ bahamut_akamaized_net
+host = bahamut.akamaized.net
+title = bahamut.akamaized.net (Akamai)
+
 ++ cachefly_cachefly_net
 host = cachefly.cachefly.net
 title = cachefly.cachefly.net (CacheFly)
@@ -242,10 +246,6 @@ title = cdn.appledaily.com.tw.edgesuite.net (Akamai)
 ++ cdn_17app_co_akamaized_net
 host = cdn.17app.co.akamaized.net
 title = cdn.17app.co.akamaized.net (Akamai)
-
-++ bahamut_akamaized_net
-host = bahamut.akamaized.net
-title = bahamut.akamaized.net (Akamai)
 
 ++ code_jquery_netdna-cdn_com
 host = code.jquery.netdna-cdn.com
